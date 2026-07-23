@@ -43,14 +43,9 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PQ8vPVpIn3M?si=1lPLIXNIFWSRnefL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+My first milestone involved assembling the chassis of the car, testing out the sensors, and coding the basic movement. I first built the chassis of the car and attached the motors. I then wired up the car's battery which allowed for it to drive around. I attached the ultrasonic sensor and obstacle avoidance modules to facilitate its self-driving capabilities. The motors and sensors are all working well through numerous tests of running different code so I am confident that I can move on to the next step. 
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
