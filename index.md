@@ -74,7 +74,7 @@ void loop() {
 | DMM | Measures electrical signals | $9.99 | <a href="https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B00MH4QM1S/](https://www.amazon.com/dp/B0CXM242J1"> Link </a> |
 | AA Batteries | Powers the robot | $9.99 | <a href="https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B00MH4QM1S/](https://www.amazon.com/dp/B0CXM242J1](https://www.amazon.com/Amazon-Basics-Batteries-Leak-Free-Household/dp/B00NTCH52W/"> Link </a> |
 | 24 Bits WS2812 LED Ring | Decorative Lights | $8.99 | <a href="https://www.amazon.com/Sparkleiot-Integrated-Drivers-Arduino-Raspberry/dp/B09K58DMMX/"> Link </a> |
-| Arduino Uno R4 WiFi | Microcontroller Board | $19.99 | <a href="[https://www.amazon.com/DIYables-Development-Compatible-Bluetooth-Prototyping/dp/B0FRZY4YRT/)"> Link </a> |
+| Arduino Uno R4 WiFi | Microcontroller Board | $19.99 | <a href="https://www.amazon.com/DIYables-Development-Compatible-Bluetooth-Prototyping/dp/B0FRZY4YRT/"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
