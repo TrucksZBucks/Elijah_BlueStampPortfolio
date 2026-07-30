@@ -35,11 +35,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+My second milestone was the completion of the base project and establishing a good foundation for further modifications. First, I came up with the idea of screwing two mending plates to the front of the car and securing the desktop vacuum in between the two metal pieces. However, I was met with the challenge of trying to balance the weight of the car and not to make it too front-heavy. Eventually, I thought of moving the vacuum and the mending plates to the back of the car, where there was another wheel that prevented the chassis from tipping over. This idea did the trick and I moved on to attaching the ring lights. After this milestone, I am ready to start coding a website that can manually control the LED lights as my final modification. 
 
 # First Milestone
 
