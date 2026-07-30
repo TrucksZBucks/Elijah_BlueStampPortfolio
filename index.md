@@ -44,7 +44,7 @@ My second milestone was the completion of the base project and establishing a go
 My first milestone involved assembling the chassis of the car, testing out the sensors, and coding the basic movement. I first built the chassis of the car and attached the motors. I then wired up the car's battery which allowed for it to drive around. I attached the ultrasonic sensor and obstacle avoidance modules to facilitate its self-driving capabilities. The motors and sensors are all working well through numerous tests of running different code so I am confident that I can move on to the next step. 
 
 # Schematics 
-![](https://github.com/TrucksZBucks/Elijah_BlueStampPortfolio/blob/gh-pages/Screenshot%202026-07-30%20122843.png)
+![Schematics Image](https://github.com/TrucksZBucks/Elijah_BlueStampPortfolio/blob/gh-pages/Screenshot%202026-07-30%20122843.png)
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
 # Code
