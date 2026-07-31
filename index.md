@@ -26,9 +26,8 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GV_1YKm9ogM?si=lawXUwDATfM29vhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 My second milestone was the completion of the base project and establishing a good foundation for further modifications. First, I came up with the idea of screwing two mending plates to the front of the car and securing the desktop vacuum in between the two metal pieces. However, I was met with the challenge of trying to balance the weight of the car and not to make it too front-heavy. Eventually, I thought of moving the vacuum and the mending plates to the back of the car, where there was another wheel that prevented the chassis from tipping over. This idea did the trick and I moved on to attaching the ring lights. After this milestone, I am ready to start coding a website that can manually control the LED lights as my final modification. 
 
