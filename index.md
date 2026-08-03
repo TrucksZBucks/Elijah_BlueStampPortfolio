@@ -222,6 +222,7 @@ void setup(){
   ring2.setBrightness(25);
   ring1.show(); ring2.show();
 
+  //connect to Wifi
   while(WiFi.begin(ssid,pass)!=WL_CONNECTED){ delay(3000); }
   server.begin();
   Serial.println(WiFi.localIP());
