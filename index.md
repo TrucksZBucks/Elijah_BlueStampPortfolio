@@ -276,8 +276,5 @@ Included in my project was a website that had clickable buttons to control the L
 | Arduino Uno R4 WiFi | Microcontroller Board | $19.99 | <a href="https://www.amazon.com/DIYables-Development-Compatible-Bluetooth-Prototyping/dp/B0FRZY4YRT/"> Link </a> |
 
 # Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Base Project Manual](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_project.html)
 - [Saagnik's Floor Cleaning Robot Portfolio](https://smitra123.github.io/Saagnik-Mitra-s-BSE-Portfolio)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
