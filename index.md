@@ -42,7 +42,6 @@ My first milestone involved assembling the chassis of the car, testing out the s
 
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
 #include <WiFiS3.h>
@@ -259,6 +258,9 @@ void loop(){
   if(mode==RAINBOW) delay(2);
 }
 ```
+# LED Control Website
+Included in my project was a website that has clickable buttons to control the LED ring lights on the car. Here is a screenshot of the website:
+
 
 # Bill of Materials
 
