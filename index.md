@@ -259,8 +259,8 @@ void loop(){
 }
 ```
 # LED Control Website
-Included in my project was a website that has clickable buttons to control the LED ring lights on the car. Here is a screenshot of the website:
-
+Included in my project was a website that had clickable buttons to control the LED ring lights on the car. Here is a screenshot of the website:
+![Website Image](Screenshot 2026-08-03 132139.png)
 
 # Bill of Materials
 
