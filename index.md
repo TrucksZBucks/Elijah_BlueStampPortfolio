@@ -1,5 +1,5 @@
 # BlueStamp Floor Cleaning Robot
-This project involves a Arduino-controlled self-driving floor-cleaning robot. It uses an ultrasonic sensor and two obstacle avoidance modules to steer out of the way of obstructions. As an extra modification I added remote-controlled LED lights for decoration of the car, which turned out very nice. 
+This project involves a Arduino-controlled self-driving floor-cleaning robot. It uses an ultrasonic sensor and two obstacle avoidance modules that detect objects using imperceptible sound and light respectively to steer out of the way of obstructions. Attached to the back is a small vacuum that can pick up scraps and other small particles. As an extra modification I added LED ring lights for some decoration. I later implemented a website remote control that can make the lights flash different patterns. 
 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
