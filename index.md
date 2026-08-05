@@ -10,15 +10,9 @@ This project involves a Arduino-controlled self-driving floor-cleaning robot. It
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xh50e6_ET6k?si=-1ZO8wzW1A0z162T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+My third milestone involved completing my final modification, which was coding and implementing a website that could remotely control the LED lights of the car. The website features five buttons to change the settings of the lights: red, green, blue, rainbow, and off. I had a little trouble getting the Arduino connected to the internet, but it was then that I realized that a fault in the battery was not providing enough power to the car as a whole. I solved the issue by replacing the battery with a new, fully-charged one. Overall, looking back on the project as a whole, I never could've imagined I could get this far, even coding my own modifications. This project was a success and I hope to pursue many other electrical engineering projects in the future.
 
 
 
